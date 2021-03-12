@@ -37,3 +37,6 @@
 
 
 ![캡처](https://user-images.githubusercontent.com/66764321/110909378-5ebe8300-8353-11eb-9053-5735bdbd2046.JPG)
+
+### mapreduce.java
+프로그램은 파일을 모두 읽고, 파일들에 포함되어 있는 모든 word의 개수를 센 후에, 빈도 (frequency)가 높은 단어부터 내림차순으로 “단어와 빈도”를 출력한다.
